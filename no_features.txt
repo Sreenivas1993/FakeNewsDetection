@@ -1,0 +1,38 @@
+List of Features
+------------------------
+
+1 # of  nouns 
+2 #  of  verbs
+3. n_tokens_title: Number of words in the title 
+4. n_tokens_content: Number of words in the content 
+5. n_unique_tokens: Rate of unique words in the content 
+6. n_non_stop_words: Rate of non-stop words in the content 
+7. n_non_stop_unique_tokens: Rate of unique non-stop words in the content
+8. average_token_length: Average length of the words in the content 
+
+9. text_sentiment_polarity: Text sentiment polarity 
+10. text_subjectivity: Text subjectivity 
+
+11. global_rate_positive_words: Rate of positive words in the content 
+12. global_rate_negative_words: Rate of negative words in the content 
+13. rate_positive_words: Rate of positive words among non-neutral tokens 
+14. rate_negative_words: Rate of negative words among non-neutral tokens 
+15. avg_positive_polarity: Avg. polarity of positive words 
+16. min_positive_polarity: Min. polarity of positive words 
+17. max_positive_polarity: Max. polarity of positive words 
+18. avg_negative_polarity: Avg. polarity of negative words 
+19. min_negative_polarity: Min. polarity of negative words 
+20. max_negative_polarity: Max. polarity of negative words 
+21. title_subjectivity: Title subjectivity 
+22. title_sentiment_polarity: Title polarity 
+23. abs_title_sentiment_polarity: Absolute polarity level 
+24. LDA_Topic_00
+25. LDA_Topic_01
+26. ARI - Automated Readability Index
+27. ORS - Online Relevance score (Mean Jaccard Similarity)
+28. Verb Probability - POS tagging
+29. Preposition Probability - POS tagging
+30. Noun Probability - POS tagging
+
+
+-->
